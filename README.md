@@ -18,7 +18,7 @@ I enjoy architecting React projects and simplifying any codebase. My experience 
 - Custom architectures tailored for your business! <a href="mailto:sp-milo&#64;proton.me">sp-milo@proton.me</a>
 - Feature-based Architecture
 
-## Strictly following engineering :
+## Strictly following software engineering principles:
 - React S.O.L.I.D. and OOP S.O.L.I.D.
 - MVC 
 - DRY, KISS, YAGNI and SOC 
